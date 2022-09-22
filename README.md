@@ -11,7 +11,11 @@ Permite a criação de uma única instância de uma classe e fornece um modo par
 ![img.png](img.png)  
 Fonte: www.sourcemaking.com
 
+## *Padrão Strategy*
+Simplifica a variação de algoritmos para a resolução de um mesmo problema.
 
+![img_1.png](img_1.png)
+Fonte: www.sourcemaking.com
 
 ## 🛠 Tecnologias Utilizadas
 
