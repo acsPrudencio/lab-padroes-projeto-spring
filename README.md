@@ -1,15 +1,23 @@
 # <p align = "center"> <b> Laboratório de padrões de projeto com Spring  </b>
 
-## 💻 Sobre o projeto </br> </br>
+## 💻 Sobre o projeto   
 
 Este repositorio contem todo conteúdo que foi desenvolvido durante o *Laboratório de padrões de projeto com Spring* ministrado pelo
-professor **Venilton Flavo Jr**. 
+professor **Venilton Flavo Jr**.
 
-<h2>🛠 Tecnologias Utilizadas</h2>
-<ul>
-    <li>IDE IntelliJ</li>
-    <li>Java 17</li>
-    <li>Maven</li>
-    <li>Spring Boot</li>
-</ul>
+## *Padrão Singleton*
+Permite a criação de uma única instância de uma classe e fornece um modo para recuperá-la.
+
+![img.png](img.png)  
+Fonte: www.sourcemaking.com
+
+
+
+## 🛠 Tecnologias Utilizadas
+
+* IDE IntelliJ
+* Java 17
+* Maven
+* Spring Boot
+
 
