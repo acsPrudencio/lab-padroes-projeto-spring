@@ -1,6 +1,6 @@
 # <p align = "center"> <b> Laboratório de padrões de projeto com Spring  </b>
 
-## 💻 Sobre o projeto   
+## 💻 Sobre o projeto
 
 Este repositorio contem todo conteúdo que foi desenvolvido durante o *Laboratório de padrões de projeto com Spring* ministrado pelo
 professor **Venilton Flavo Jr**.
@@ -14,7 +14,12 @@ Fonte: www.sourcemaking.com
 ## *Padrão Strategy*
 Simplifica a variação de algoritmos para a resolução de um mesmo problema.
 
-![img_1.png](img_1.png)
+![img_1.png](img_1.png)  
+Fonte: www.sourcemaking.com
+
+## *Padrão Facade*
+Provem uma interface que reduz a complexidade nas integrações com subsistemas.
+![img_2.png](img_2.png)  
 Fonte: www.sourcemaking.com
 
 ## 🛠 Tecnologias Utilizadas
